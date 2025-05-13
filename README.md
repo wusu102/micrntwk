@@ -1,6 +1,6 @@
 # micrntwk
 ## 安装方式1：devtools::install_github("wqssf102/micrntwk")
-## 安装方式2：remotes::install_git("https://gitee.com/wqssf102/micrntwk", dependencies = TRUE)
+## 安装方式2：remotes::install_git("https://gitee.com/wusu102/micrntwk", dependencies = TRUE)
 # 国内用户推荐使用方式1
 ## 安装方式1：remotes::install_git("https://gitee.com/wqssf102/micrntwk", dependencies = TRUE)
 ## 安装方式2：devtools::install_github("wqssf102/micrntwk")
